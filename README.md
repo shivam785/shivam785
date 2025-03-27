@@ -27,7 +27,7 @@ Here are some of the technologies I work with:
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam785&layout=compact&theme=tokyonight) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shivam785&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shivam785)](https://git.io/streak-stats)
 
 
 ### 🌱 Contribution Graph  
