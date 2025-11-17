@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
--*Python* : Open CV,LLM/AI-ML
+-*Python* : Open CV, LLM/AI-ML
 
 
 
