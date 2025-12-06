@@ -37,7 +37,7 @@ Here are some of the technologies I work with:
 
 ## 📣 Let's Connect  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat-squircle&logo=Portfolio&logoColor=white)](yourcoderfriend.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat-squircle&logo=Portfolio&logoColor=white)](https://yourcoderfriend.vercel.app/)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1DA1F2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krshivam2004)  
 ---
