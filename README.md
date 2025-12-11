@@ -41,4 +41,4 @@ Here are some of the technologies I work with:
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1DA1F2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krshivam2004)  
 ---
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
+Feel free to explore my repositories and Contact me anytime if you'd like to collaborate!
