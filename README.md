@@ -1,4 +1,4 @@
-# ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Kumar Shivam
+# ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, myself Kumar Shivam
 
 ## LEARNING frontend , Python , AI (OpenCV/LLMs)
 ![Profile Views](https://komarev.com/ghpvc/?username=shivam785&label=Profile%20views&color=1778F2&style=flat)
