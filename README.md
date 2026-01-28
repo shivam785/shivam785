@@ -34,7 +34,7 @@ Here are some of the technologies I work with:
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam785&theme=tokyonight)](https://github.com/shivam785)
 
-## 📣 Let's Connect  
+## 📣 Contact 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat-squircle&logo=Portfolio&logoColor=white)](https://yourcoderfriend.vercel.app/)
 
