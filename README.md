@@ -28,7 +28,7 @@ Here are some of the technologies I work with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam785&layout=compact&theme=tokyonight) 
 
 
-### 🌱 Contribution Graph  
+### 🌱 consistency Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam785&theme=tokyo-night" loading="lazy" width="100%" alt="Shivam's Contribution Graph">
 
 
